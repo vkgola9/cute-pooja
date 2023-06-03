@@ -64,7 +64,7 @@ body {
 }
 
 .play7 {
-  animation: play7 3s 18s ease-in forwards;
+  animation: play7 3s 19.5s ease-in forwards;
   transform: translateY(500px);
   z-index: 10 !important;
 }
